@@ -1,0 +1,3 @@
+Hi. This simple blog site was created to practice coding in HTML and CSS.  It is hosted for free on GitHub Pages.  The site’s GitHub repo can be found at [https://github.com/thestevenbell/CatsFashionBlog](https://github.com/thestevenbell/CatsFashionBlog). Go to the gh-pages branch tab to see the as-hosted code. The site’s URL is [http://thestevenbell.github.io/CatsFashionBlog/](http://thestevenbell.github.io/CatsFashionBlog/).
+
+The blog is not yet mobile responsive, but I’ll be adding this feature soon.  I will also be working on porting this site over to use the blog tempting engine [Jekyll](https://jekyllrb.com/). Jekyll is the preferred way to host dynamic content on GitHub without the use of content management systems like WordPress, Drupal or Joomla.
